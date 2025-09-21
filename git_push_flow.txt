@@ -1,0 +1,7 @@
+
+'' Git Push Best Practice"
+git status
+git add <file_name>
+git commit -m "Added/Updated spec file"
+git push origin main
+git pull origin main
